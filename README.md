@@ -1,4 +1,4 @@
-# Rubiks-Cube-Solver
+# Rubik's-Cube-Solver
 
 ## Running the program to solve your rubik's cube.
 
