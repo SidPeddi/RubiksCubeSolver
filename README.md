@@ -59,10 +59,6 @@ It matches the cube printed in the console
 New to cube Notation? Don't understand what this `R2 U' R B2 U' R2 U'` means?
 [This website](https://ruwix.com/the-rubiks-cube/notation/) explains it very well.
 
-## Conclusion
-Congrats! You now hopefully have been able to solve your Rubik's cube!  
-If you are having difficulties to let me know and I will be happy to help out.
-
 ### Want to contribute to the project? 
 Feel free to add on to this solver, make the GUI better. I am willing to work with you.
 
